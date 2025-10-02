@@ -1,5 +1,5 @@
 
-readme_content = """
+
 # 📦 API para Gestión de Pedidos de Comerciantes y Distribuidores
 
 Este proyecto implementa una API REST usando FastAPI para un sistema tipo PedidosYa,
@@ -109,9 +109,9 @@ curl http://127.0.0.1:8000/clientes
 
 ## 👤 Autor
 
-- Nombre: [Tu Nombre]
-- Email: [Tu Email]
-- GitHub: [@TuUsuario](https://github.com/TuUsuario)
+- Nombre: [Grupo#5]
+- Email: [w138jvc@gmail.com]
+- GitHub: [@TuUsuario](https://github.com/wil138/Redpro_api)
 
 ## 📜 Licencia
 
